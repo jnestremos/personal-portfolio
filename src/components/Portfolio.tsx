@@ -115,8 +115,9 @@ const Portfolio = () => {
 						Project Experience
 					</h2>
 					<p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-						Selected projects: Blueprint, Citi, Financeable, Mugna, RMC, and
-						Specialty Coffee.
+						Selected projects: Blueprint, Hardware E-commmerce System,
+						Financeable, Mugna, School Accounting System, and Specialty Coffee
+						Depot.
 					</p>
 				</motion.div>
 
