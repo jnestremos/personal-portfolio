@@ -61,7 +61,7 @@ const Portfolio = () => {
 			id: 5,
 			title: "School Accounting System",
 			description:
-				"Business operations platform project focused on performance, maintainability, and clean component-driven implementation.",
+				"Multi-branch accounting platform designed for adaptable financial workflows, scalable reporting, and configurable access controls to support school needs.",
 			image: "/projects/school-accounting/Manager%20Dashboard.jpg",
 			technologies: ["Next.js", "TypeScript", "TanStack Query", "REST APIs"],
 			liveUrl: "#",
