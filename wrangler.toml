@@ -1,4 +1,4 @@
-name = "estremos-portfolio"
+name = "personal-portfolio"
 compatibility_date = "2026-04-11"
 main = "src/index.ts"
 
