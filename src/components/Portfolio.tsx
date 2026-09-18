@@ -10,7 +10,7 @@ const Portfolio = () => {
 			id: 1,
 			title: "Project Blueprint",
 			description:
-				"A reusable project template used as a base for upcoming projects, including authenticated flows and a pluggable chat module.",
+				"Reusable Next.js starter covering onboarding, authenticated flows, and a CLI-installable chat plugin used as a base for upcoming projects.",
 			image: "/projects/blueprint/Home%20-%20Existing%20User.png",
 			technologies: ["Next.js", "Zustand", "ShadCN", "Node CLI"],
 			liveUrl: "#",
@@ -21,7 +21,7 @@ const Portfolio = () => {
 			id: 2,
 			title: "Hardware E-Commerce System",
 			description:
-				"Enterprise front-end work focused on scalable architecture, reusable UI patterns, and secure data-driven workflows.",
+				"Saleor-powered storefront for a nationwide hardware retailer supporting 100+ branches, with GraphQL catalog, CMS pages, and a Leaflet branch locator.",
 			image: "/projects/hardware/hardware.png",
 			technologies: ["React.js", "TypeScript", "Next.js", "REST APIs"],
 			liveUrl: "#",
@@ -32,7 +32,7 @@ const Portfolio = () => {
 			id: 3,
 			title: "Financeable",
 			description:
-				"Loan brokerage system used by brokers in Australia with lender workflows, data migration endpoints, and a Next.js showcase site.",
+				"Shipped 2 production surfaces for Australian brokers: a React + Redux Toolkit lender workflow app and a Next.js marketing site, plus Express data-migration endpoints.",
 			image: "/projects/financeable/main.png",
 			technologies: [
 				"React.js",
@@ -50,7 +50,7 @@ const Portfolio = () => {
 			id: 4,
 			title: "Mugna Website V2",
 			description:
-				"Company website revamp showcasing services and products with CMS integration and animated user-facing pages.",
+				"Rebuilt the company site in Next.js with Contentful CMS so marketing can update services and products without engineering, plus scroll-triggered animations.",
 			image: "/projects/mugna/Home%20Page%20(list%20view).png",
 			technologies: ["Next.js", "Contentful", "Intersection Observer"],
 			liveUrl: "https://mugna.tech",
@@ -61,7 +61,7 @@ const Portfolio = () => {
 			id: 5,
 			title: "School Accounting System",
 			description:
-				"Multi-branch accounting platform designed for adaptable financial workflows, scalable reporting, and configurable access controls to support school needs.",
+				"Multi-branch accounting platform covering 3+ modules (Chart of Accounts, Fee Codes, AP/AR), with TanStack Query, Chart.js reporting, and intern supervision.",
 			image: "/projects/school-accounting/Manager%20Dashboard.jpg",
 			technologies: ["Next.js", "TypeScript", "TanStack Query", "REST APIs"],
 			liveUrl: "#",
@@ -72,7 +72,7 @@ const Portfolio = () => {
 			id: 6,
 			title: "Specialty Coffee Depot",
 			description:
-				"Led front-end development for a specialty coffee e-commerce storefront with checkout, authentication, and API flows.",
+				"Led front-end delivery of a specialty coffee storefront covering 3 core flows (checkout, authentication, purchase) on Next.js, Saleor, and Chakra UI.",
 			image: "/projects/specialty/Image%201.png",
 			technologies: ["Next.js", "Saleor", "Chakra UI", "TypeScript"],
 			liveUrl: "#",
