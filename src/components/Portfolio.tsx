@@ -65,6 +65,7 @@ const projects: Project[] = [
 			"/projects/hardware/hardware login.png",
 		],
 		technologies: ["React.js", "TypeScript", "Next.js", "REST APIs"],
+		liveUrl: "https://citihardware.com",
 		featured: true,
 	},
 	{
